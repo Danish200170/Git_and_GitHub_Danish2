@@ -1,0 +1,1 @@
+Save terminal logs captured from your actual command runs here.\n

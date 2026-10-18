@@ -1,0 +1,1 @@
+Save genuine terminal screenshots here. Required evidence is listed in workflow/GIT_WORKFLOW.md and the Word report. Do not use fabricated screenshots.\n

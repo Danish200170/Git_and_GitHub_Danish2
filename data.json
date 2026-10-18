@@ -1,0 +1,6 @@
+{
+  "application": "Git and GitHub Flask To-Do",
+  "version": 1,
+  "message": "Initial API data",
+  "features": ["todo form", "JSON API"]
+}
