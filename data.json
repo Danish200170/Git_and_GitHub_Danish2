@@ -1,4 +1,13 @@
 {
+  "project": "Git and GitHub Assignment",
+  "owner": "Danish200170",
+  "version": 2,
+  "items": [
+    "Item Name",
+    "Item Description",
+    "Item ID"
+  ]
+}{
   "application": "Git and GitHub Flask To-Do",
   "version": 1,
   "message": "Initial API data",
