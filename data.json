@@ -1,9 +1,10 @@
 {
   "project": "Git and GitHub Assignment",
   "owner": "Danish200170",
-  "version": 1,
+  "version": 2,
   "items": [
-    "Main branch original item",
-    "Main branch description"
+    "Item Name",
+    "Item Description",
+    "Item ID"
   ]
 }
