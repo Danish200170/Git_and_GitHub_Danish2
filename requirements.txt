@@ -1,1 +1,2 @@
-Flask>=3.0,<4.0\npymongo>=4.6,<5.0\n
+Flask>=3.0,<4.0
+pymongo>=4.6,<5.0

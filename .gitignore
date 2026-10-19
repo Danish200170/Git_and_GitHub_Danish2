@@ -1,1 +1,4 @@
-.venv/\n__pycache__/\n*.py[cod]\n.env\n
+.venv/
+__pycache__/
+*.py[cod]
+.env
