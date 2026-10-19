@@ -1,6 +1,9 @@
 {
-  "application": "Git and GitHub Flask To-Do",
+  "project": "Git and GitHub Assignment",
+  "owner": "Danish200170",
   "version": 1,
-  "message": "Initial API data",
-  "features": ["todo form", "JSON API"]
+  "items": [
+    "Main branch original item",
+    "Main branch description"
+  ]
 }
